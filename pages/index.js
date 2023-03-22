@@ -46,7 +46,7 @@ export default function Home() {
             <p className='text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl'>Transforming your ideas into reality, one line of code at a time.</p>
             <div className='text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400'>
               <AiFillTwitterCircle />
-              <Link href='https://www.linkedin.com/in/ata-murad' target='_blank'>
+              <Link href='https://www.linkedin.com/in/murad-babakulyyev-73368826a' target='_blank'>
                 <a>
                   <AiFillLinkedin color='#0e76a8' />
                 </a>
